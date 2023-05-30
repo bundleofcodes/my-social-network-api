@@ -1,0 +1,20 @@
+{
+  "name": "my-social-network-api",
+  "version": "1.0.1",
+  "description": "Mongoose back-end project - Develop",
+  "main": "index.js",
+  "license": "Apache",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "seed": "node utils/seed",
+    "heroku-postbuild": "node utils/seed.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^7.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
