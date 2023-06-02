@@ -27,17 +27,17 @@ The purpose of this project is to demonstrate the use of an API design to create
 - Insomnia
 
 ## Installation:
-- 1. Fork and clone repository to local machine
-- 2. Open integrated terminal in personal IDE
-- 3. Run `npm i` to install dependencies in local projecrt directory
+- Fork and clone repository to local machine
+- Open integrated terminal in personal IDE
+- Run `npm i` to install dependencies in local projecrt directory
 
 
 
 ## Usage:
 
-- 1. Open integrated terminal in personal IDE.
-- 2. Run `npm run start` to start server on local port.
-- 3. Test endpoints in API tester such as Insomnia.
+- Open integrated terminal in personal IDE.
+- Run `npm run start` to start server on local port.
+- Test endpoints in API tester such as Insomnia.
 
 - [Click here to view the deployed walkthrough video on Screencastify:](https://drive.google.com/file/d/1-o9vh5C7H1a9PjMOnPy7_n5n2KgIcCho/view?usp=sharing)
 
